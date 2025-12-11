@@ -20,8 +20,6 @@ psql restaurant_tips
 # Run schema file
 \i database_schema.sql
 
-# Quit
-\q
 ```
 
 ### Running the System
